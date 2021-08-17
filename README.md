@@ -1,4 +1,3 @@
-[![dodthered github activity graph](https://activity-graph.herokuapp.com/graph?username=dodthered&theme=xcode)](https://activity-graph.herokuapp.com/graph?username=dodthered&custom_title=Contribuation%20Graphhide_border=true)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=dodthered&theme=react-dark&custom_title=Contribution%20Graph&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   ![Snake animation](https://github.com/dodthered/dodthered/blob/output/github-contribution-grid-snake.svg)
-
 
